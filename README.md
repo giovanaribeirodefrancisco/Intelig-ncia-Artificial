@@ -1,2 +1,2 @@
-# Intelig-ncia-Artificial
+# Inteligência-Artificial
 Atividades de IA
